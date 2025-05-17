@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #ccc;
+}
+
+.container {
+    height: 100px;
+    width: auto;
+    display: flex;
+    background-color: black;
+}
+
+.logo {
+    height: 100%;
+}
