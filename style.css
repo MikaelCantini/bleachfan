@@ -2,17 +2,59 @@
     margin: 0px;
     padding: 0px;
 }
+
 body {
-    background-color: #ccc;
+      background-color: #ccc;
 }
 
-.container {
-    height: 100px;
-    width: auto;
+main{
     display: flex;
+    justify-content: center;
+}
+.container2 {
+    background-color: white;
+    width: 1200px;
+
+}
+h1 {
+    padding: 20px;
+}
+p {
+    padding: 20px;
+    text-align: justify;
+}
+.container {
+    height: 150px;
+    width: 100%;
     background-color: black;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: space-between;
 }
 
-.logo {
-    height: 100%;
+.container img {
+    height: 100px;
+}
+
+.container div {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    margin-right: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu:hover {
+    background-color: #ccc;
+    text-decoration: underline;
 }
