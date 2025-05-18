@@ -79,7 +79,18 @@ a {
     border-radius: 10px;
 }
 
-.container2 div:hover {
+.container2 a:hover {
     font-size: 23px;
     background-color: #1b263b;
+}
+
+.container2 a {
+    font-size: 20px;
+    padding: 20px;
+    background-color: #0d1b2a;
+    color: white;
+    width: 60%;
+    text-align: center;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
