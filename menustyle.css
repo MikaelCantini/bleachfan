@@ -57,6 +57,8 @@ a {
 /* CONTAINER 2 CONTEUDO PRINCIPAL*/
 
 .container2 {
+    margin-top: 1%;
+    margin-bottom: 3%;
     width: 500px;
     height: 700px;
     background-color: white;
@@ -124,9 +126,6 @@ a {
     border: 2px solid black;
 }
 
-
-
-
 .container2 a {
     font-size: 20px;
     padding: 20px;
@@ -137,3 +136,4 @@ a {
     border-radius: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
