@@ -79,10 +79,53 @@ a {
     border-radius: 10px;
 }
 
-.container2 a:hover {
+.container2 .mundodosvivos:hover {
     font-size: 23px;
     background-color: #1b263b;
+    background-image: url("https://i.pinimg.com/736x/45/61/9f/45619f9124704ccb955920e27ddd2d76.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px;
+    border: 2px solid black;
 }
+
+
+.container2 .sereitei:hover {
+    font-size: 23px;
+    background-color: #1b263b;
+    background-image: url("https://bleach-rpghb.weebly.com/uploads/1/2/6/7/12671167/733189826.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+.container2 .huecomundo:hover {
+    font-size: 23px;
+    background-color: #1b263b;
+    background-image: url("https://preview.redd.it/theres-something-so-beautifully-bleak-about-hueco-mundo-v0-jo0q3zr2p1ce1.jpeg?auto=webp&s=0e69961101562ae750eb1fe6b7e6e97bdc1a8b89");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+.container2 .quincy:hover {
+    font-size: 23px;
+    background-color: #1b263b;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9B4VAmgvaLvkjC5KRZjVdkRpixAzDqtrLEw&s");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+
+
 
 .container2 a {
     font-size: 20px;
